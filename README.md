@@ -261,7 +261,7 @@ Si intentas crear una empresa con un **CUIT duplicado**, el sistema ejecuta un r
 
 ## 📹 Video Demostrativo
 
-**🎥 [Ver video explicativo del proyecto](https://youtube.com/)**
+**🎥 [Ver video explicativo del proyecto](https://youtu.be/1os7mgmLZAw)**
 
 En el video se muestra:
 - Presentación de los 5 integrantes
